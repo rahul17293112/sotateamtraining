@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is rahul text
+=======
+hello i am rahul
+>>>>>>> c2b7428e54a2dd0f87ebf3500fdadd9f459124cf
